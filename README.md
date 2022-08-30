@@ -16,7 +16,7 @@ OpenZeppelin provides a library of smart contracts code that is community-vetted
 
 This project is a simple DOA using OpenZeppelin Governor, which is provided specifically for DOA applications. Here is the scenario: 
 
-Members of a DAO **(Token Holders)** called ‘Direct-Democracy’ want to build a gym. They need to create a proposal to vote **(Governance)** on that, if approved, will release predetermined funds from a communal bank **(Treasury)** to a builders cooperative **(Recipient)**. This money will be transferred after a time delay **(TimeLock)**.
+Members of a DAO **(Token Holders)** called ‘Direct-Democracy’ want to build a gym. They need to create a proposal to be voted on **(Governance)** that, if approved, will release predetermined funds from a communal bank **(Treasury)** to a builders cooperative **(Recipient)**. This money will be transferred after a time delay **(TimeLock)**.
 
 First, let’s define the roles simply:
 ```
